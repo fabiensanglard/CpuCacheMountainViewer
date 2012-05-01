@@ -1,0 +1,6 @@
+This is how to disable cores in MacOS X Lion:
+sudo nvram boot-args="cpus=1"
+Reboot.
+In order to re-enable them:
+sudo nvram boot-args=""
+reboot
