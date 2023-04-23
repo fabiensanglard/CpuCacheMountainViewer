@@ -7,4 +7,6 @@ I ran those on a MacPro 5,1 and a MacBookAir 4,2.
 
 I also attached the Excel graph generated.
 
+Please run `make ARCH=<alpha,x86,riscv>` to compile this program.
+
 Fabien

@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 #include "clock.h"
+#include "counter.h"
 #include "fcyc2.h"
 
 static double *values = NULL;
